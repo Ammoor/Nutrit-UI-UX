@@ -8,7 +8,7 @@
 
 - Omar Ayman
 - Omar Gamal
-- Mohammed Amr
+- Mohamed Amr
 - Mostafa Mohamed
 - Almoatasem Bellah
 
