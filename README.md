@@ -105,3 +105,8 @@ Our mission is to create an intuitive, accessible, and medically-informed user e
 ---
 
 _Built with ❤️ for better health outcomes through better design_
+
+## Resources
+
+- [Team Members Tasks](https://docs.google.com/spreadsheets/d/1WtJKBLRC3Zlv2VoaPrD4oSw2M6zQ99gLZFJ97lhoNyg/edit?usp=sharing)
+- [Tasks Drive](https://drive.google.com/drive/folders/1PfYgCz38PXoZEx6fpLPoihgM1hVypFRV?usp=drive_link)
