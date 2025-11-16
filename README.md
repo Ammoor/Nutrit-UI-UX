@@ -110,3 +110,4 @@ _Built with ❤️ for better health outcomes through better design_
 
 - [Team Members Tasks](https://docs.google.com/spreadsheets/d/1WtJKBLRC3Zlv2VoaPrD4oSw2M6zQ99gLZFJ97lhoNyg/edit?usp=sharing)
 - [Tasks Drive](https://drive.google.com/drive/folders/1PfYgCz38PXoZEx6fpLPoihgM1hVypFRV?usp=drive_link)
+- [Figma Design](https://www.figma.com/design/yYtAVSSeAZRdfRJq3XQcef/NUTRIT?node-id=2052-463&t=ZqDoSmq2397MJZmV-1)
