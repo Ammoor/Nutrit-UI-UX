@@ -61,7 +61,6 @@ Our mission is to create an intuitive, accessible, and medically-informed user e
 
 ---
 
-
 ## 🛠️ Design Tools & Technologies
 
 - **Design Tools**: Figma, Adobe Creative Suite, Sketch
@@ -111,3 +110,4 @@ _Built with ❤️ for better health outcomes through better design_
 - [Team Members Tasks](https://docs.google.com/spreadsheets/d/1WtJKBLRC3Zlv2VoaPrD4oSw2M6zQ99gLZFJ97lhoNyg/edit?usp=sharing)
 - [Tasks Drive](https://drive.google.com/drive/folders/1PfYgCz38PXoZEx6fpLPoihgM1hVypFRV?usp=drive_link)
 - [Figma Design](https://www.figma.com/design/yYtAVSSeAZRdfRJq3XQcef/NUTRIT?node-id=2052-463&t=ZqDoSmq2397MJZmV-1)
+- [Presentation](https://www.canva.com/design/DAG2xDD0GN0/dR_gGW1MEL5cVDRBJMRAnw/edit?utm_content=DAG2xDD0GN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
